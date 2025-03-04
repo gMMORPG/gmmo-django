@@ -1,3 +1,10 @@
-from django.contrib import admin
+"""
+Django admmin management for mmo application models.
+"""
 
-# Register your models here.
+from django.contrib import admin
+from mmo.models import UserData, Character, World
+
+admin.site.register(UserData)
+admin.site.register(Character)
+admin.site.register(World)
