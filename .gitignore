@@ -136,3 +136,8 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+
+# GodotMMO files
+mmo/__pycache__/*
+mmo/migrations/*
