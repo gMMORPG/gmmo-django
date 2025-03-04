@@ -3,8 +3,8 @@
 Primeiro, clone o repositório do GitHub e acesse o diretório do projeto:  
 
 ```bash
-$ git clone git@github.com/USERNAME/{{ project_name }}.git
-$ cd {{ project_name }}
+$ git clone git@github.com:gMMORPG/gmmo-django.git
+$ cd gmmo-django
 ```  
 
 Ative o ambiente virtual do seu projeto.
