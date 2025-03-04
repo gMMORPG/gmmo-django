@@ -87,7 +87,7 @@ limit-inference-results=100
 load-plugins=pylint_django
 
 # Django project path for pylint-django plugin.
-django-settings-module=your-project.settings
+django-settings-module=core.settings
 
 # Pickle collected data for later comparisons.
 persistent=yes
